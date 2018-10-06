@@ -195,7 +195,7 @@ function prepositioning(scaleX) {
                         ')';
                     previousAngle = angleAfter;
 
-                    $(".brightness").text("brightness: " + (min(1, brightnessBefore - 1 / 180) * 100).toFixed(0) + "%")
+                    $(".brightness").text("brightness: " + (max(0, brightnessBefore - 1 / 180) * 100).toFixed(0) + "%")
                 }
 
 
