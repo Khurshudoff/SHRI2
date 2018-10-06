@@ -74,6 +74,17 @@ function prepositioning(scaleX) {
             }
             $("html").off("pointermove", pointermoveFunc);
         });
+        $("html").on("pointerup", function(e){
+            const pointerArray = Array.from(pointerSet);
+            if(pointerArray.length !== 0){
+                if(pointerArray[0].pointerId === e.pointerId){
+                    pointerSet.delete(pointerArray[0])
+                } else {
+                    pointerSet.delete(pointerArray[1])
+                }
+            }
+            $("html").off("pointermove", pointermoveFunc);
+        });
 
         function pointermoveFunc(e) {
 
