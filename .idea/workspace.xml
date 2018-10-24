@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="afc5741b-e3ba-4275-a128-5dc4688f9013" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dont_check/dist/app.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/dont_check/dist/app.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dont_check/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dont_check/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dont_check/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dont_check/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dont_check/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/dont_check/src/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,12 +16,10 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dont_check/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
+            <state relative-caret-position="376">
               <caret line="247" column="23" selection-start-line="247" selection-start-column="19" selection-end-line="247" selection-end-column="23" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
-                <element signature="e#1953#2353#0" />
-                <element signature="e#2401#2801#0" />
               </folding>
             </state>
           </provider>
@@ -114,6 +108,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -136,7 +131,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -174,16 +168,16 @@
       <workItem from="1538757932877" duration="8625000" />
       <workItem from="1538811755052" duration="21751000" />
       <workItem from="1538850210574" duration="1733000" />
-      <workItem from="1538889860810" duration="5277000" />
+      <workItem from="1538889860810" duration="5575000" />
+      <workItem from="1539070038406" duration="23000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53434000" />
+    <option name="totallyTimeSpent" value="53755000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12083333" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -221,12 +215,27 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/dont_check/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3705">
+          <caret line="247" column="23" selection-start-line="247" selection-start-column="19" selection-end-line="247" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dont_check/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dont_check/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2955">
           <caret line="197" column="65" selection-start-line="197" selection-start-column="65" selection-end-line="197" selection-end-column="65" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
-            <element signature="e#1953#2353#0" />
-            <element signature="e#2401#2801#0" />
           </folding>
         </state>
       </provider>
@@ -263,12 +272,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dont_check/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
+        <state relative-caret-position="376">
           <caret line="247" column="23" selection-start-line="247" selection-start-column="19" selection-end-line="247" selection-end-column="23" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
-            <element signature="e#1953#2353#0" />
-            <element signature="e#2401#2801#0" />
           </folding>
         </state>
       </provider>
